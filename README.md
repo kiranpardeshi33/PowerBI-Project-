@@ -1,4 +1,4 @@
-* Sales dashboard project *
+###Sales dashboard project
 
 
 ## 🎯 Project Overview  
