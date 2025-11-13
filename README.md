@@ -1,4 +1,4 @@
-**SALES DASHBOARD PROJECT**
+# SALES DASHBOARD PROJECT
 
 
 ## 🎯 Project Overview  
